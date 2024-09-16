@@ -1,4 +1,4 @@
 # optique-quantique
 
-Author: Lautaro Labarca. 
+Authors: several.
 Répertoire avec les codes pour le cours d'optique quantique 2024, UdeS.
